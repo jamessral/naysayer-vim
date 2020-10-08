@@ -4,12 +4,12 @@
   if &background == 'dark'
 
   let s:guishade0 = "#072626"
-  let s:guishade1 = "#393e48"
-  let s:guishade2 = "#00acff"
+  let s:guishade1 = "#d3b58d"
+  let s:guishade2 = "#0066ff"
   let s:guishade3 = "#3fdf1f"
-  let s:guishade4 = "#636d83"
-  let s:guishade5 = "#828997"
-  let s:guishade6 = "#979eab"
+  let s:guishade4 = "#d3b58d"
+  let s:guishade5 = "#d3b58d"
+  let s:guishade6 = "#d3b58d"
   let s:guishade7 = "#d3b58d"
   let s:guiaccent0 = "#f92672"
   let s:guiaccent1 = "#add8e6"
@@ -20,12 +20,12 @@
   let s:guiaccent6 = "#90ee90"
   let s:guiaccent7 = "#ffffff"
   let s:ctermshade0 = 23
-  let s:ctermshade1 = 238
-  let s:ctermshade2 = 39
+  let s:ctermshade1 = 187
+  let s:ctermshade2 = 33
   let s:ctermshade3 = 77
-  let s:ctermshade4 = 103
-  let s:ctermshade5 = 245
-  let s:ctermshade6 = 247
+  let s:ctermshade4 = 187
+  let s:ctermshade5 = 187
+  let s:ctermshade6 = 187
   let s:ctermshade7 = 187
   let s:ctermaccent0 = 204
   let s:ctermaccent1 = 153
@@ -256,4 +256,3 @@
 
   unlet s:guishade0 s:guishade1 s:guishade2 s:guishade3 s:guishade4 s:guishade5 s:guishade6 s:guishade7 s:guiaccent0 s:guiaccent1 s:guiaccent2 s:guiaccent3 s:guiaccent4 s:guiaccent5 s:guiaccent6 s:guiaccent7
   unlet s:ctermshade0 s:ctermshade1 s:ctermshade2 s:ctermshade3 s:ctermshade4 s:ctermshade5 s:ctermshade6 s:ctermshade7 s:ctermaccent0 s:ctermaccent1 s:ctermaccent2 s:ctermaccent3 s:ctermaccent4 s:ctermaccent5 s:ctermaccent6 s:ctermaccent7
-
