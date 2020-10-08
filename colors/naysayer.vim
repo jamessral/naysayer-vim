@@ -4,8 +4,8 @@
   if &background == 'dark'
 
   let s:guishade0 = "#072626"
-  let s:guishade1 = "#d3b58d"
-  let s:guishade2 = "#0066ff"
+  let s:guishade1 = "#393e48"
+  let s:guishade2 = "#0045ff"
   let s:guishade3 = "#3fdf1f"
   let s:guishade4 = "#d3b58d"
   let s:guishade5 = "#d3b58d"
@@ -20,8 +20,8 @@
   let s:guiaccent6 = "#90ee90"
   let s:guiaccent7 = "#ffffff"
   let s:ctermshade0 = 23
-  let s:ctermshade1 = 187
-  let s:ctermshade2 = 33
+  let s:ctermshade1 = 238
+  let s:ctermshade2 = 27
   let s:ctermshade3 = 77
   let s:ctermshade4 = 187
   let s:ctermshade5 = 187
