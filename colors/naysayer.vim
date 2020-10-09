@@ -233,7 +233,7 @@
   exec "hi Title guifg=".s:guiaccent5
   exec "hi Title ctermfg=".s:ctermaccent5
   exec "hi Visual guibg=".s:guiaccent0
-  exec "hi Visual ctermbg=".s:ctermsaccent0
+  exec "hi Visual ctermbg=".s:ctermaccent0
   exec "hi VisualNOS guifg=".s:guiaccent0." guibg=".s:guishade1
   exec "hi VisualNOS ctermfg=".s:ctermaccent0." ctermbg=".s:ctermshade1
   exec "hi WarningMsg guifg=".s:guiaccent0
