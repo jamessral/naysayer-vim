@@ -188,8 +188,8 @@
   exec "hi FoldColumn ctermfg=".s:ctermshade4." ctermbg=".s:ctermshade1
   exec "hi SignColumn guibg=".s:guishade0
   exec "hi SignColumn ctermbg=".s:ctermshade0
-  exec "hi IncSearch guifg=".s:guishade0." guibg=".s:guiaccent2
-  exec "hi IncSearch ctermfg=".s:ctermshade0." ctermbg=".s:ctermaccent2
+  exec "hi IncSearch guifg=".s:guishade0." guibg=".s:guiaccent0
+  exec "hi IncSearch ctermfg=".s:ctermshade0." ctermbg=".s:ctermaccent0
   exec "hi LineNr guifg=".s:guishade2." guibg=".s:guishade0
   exec "hi LineNr ctermfg=".s:ctermshade2." ctermbg=".s:ctermshade0
   exec "hi CursorLineNr guifg=".s:guishade3." guibg=".s:guishade1
@@ -210,8 +210,8 @@
   exec "hi PmenuThumb ctermfg=".s:ctermaccent0." ctermbg=".s:ctermshade2
   exec "hi Question guifg=".s:guishade7." guibg=".s:guishade1
   exec "hi Question ctermfg=".s:ctermshade7." ctermbg=".s:ctermshade1
-  exec "hi Search guifg=".s:guishade0." guibg=".s:guiaccent2
-  exec "hi Search ctermfg=".s:ctermshade0." ctermbg=".s:ctermaccent2
+  exec "hi Search guifg=".s:guishade0." guibg=".s:guiaccent0
+  exec "hi Search ctermfg=".s:ctermshade0." ctermbg=".s:ctermaccent0
   exec "hi SpecialKey guifg=".s:guiaccent7." guibg=".s:guishade0
   exec "hi SpecialKey ctermfg=".s:ctermaccent7." ctermbg=".s:ctermshade0
   exec "hi SpellBad guifg=".s:guiaccent0
@@ -232,8 +232,8 @@
   exec "hi TabLineSel ctermfg=".s:ctermshade6." ctermbg=".s:ctermshade0
   exec "hi Title guifg=".s:guiaccent5
   exec "hi Title ctermfg=".s:ctermaccent5
-  exec "hi Visual guibg=".s:guishade1
-  exec "hi Visual ctermbg=".s:ctermshade1
+  exec "hi Visual guibg=".s:guiaccent0
+  exec "hi Visual ctermbg=".s:ctermsaccent0
   exec "hi VisualNOS guifg=".s:guiaccent0." guibg=".s:guishade1
   exec "hi VisualNOS ctermfg=".s:ctermaccent0." ctermbg=".s:ctermshade1
   exec "hi WarningMsg guifg=".s:guiaccent0
